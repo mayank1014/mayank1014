@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **mayanksingh1184@gmail.com**
 
-- 📄 Know about my experiences [http://google_docs/resume](http://tinyurl.com/y659awmu)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mayank_1014_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayank_1014_" height="30" width="40" /></a>
