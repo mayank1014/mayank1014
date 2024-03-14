@@ -6,9 +6,11 @@
 <p align="left"> <a href="https://linkedin.com/in/mayank-singh-b0271b254" target="blank"><img src="https://img.shields.io/badge/Connect-MayankSingh-blue?style=for-the-badge&logo=linkedin" alt="MayankSingh" />
 
 - 🧑🏻‍💻 I'm an upcoming SDE intern @ **MasterCard**
-- 🔭 I’m currently working on **Endorsify**
+- 🔭 I’m currently working on <a href="https://github.com/mayank1014/Endorsify" target="_blank" >
+		**Endorsify**	
+	</a>
 
-- 🌱 I’m currently learning **Java SpringBoot, MEARN**
+- 🌱 I’m currently learning **Java SpringBoot, MERN Stack**
 
 - 📫 How to reach me **mayanksingh1184@gmail.com**
 
